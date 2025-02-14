@@ -1,0 +1,6002 @@
+{
+    "0": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One purple coat."
+    },
+    "1": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One green toilet."
+    },
+    "2": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One pair of black trousers."
+    },
+    "3": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One purple curtain."
+    },
+    "4": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One red fork."
+    },
+    "5": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One marble bowl."
+    },
+    "6": {
+        "objects": [
+            "woman"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One angry woman."
+    },
+    "7": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One black book."
+    },
+    "8": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One square clock."
+    },
+    "9": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One green knife."
+    },
+    "10": {
+        "objects": [
+            "horse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One angry horse."
+    },
+    "11": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One purple broccoli."
+    },
+    "12": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One pink frisbee."
+    },
+    "13": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One yellow sink."
+    },
+    "14": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One green tennis racket."
+    },
+    "15": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One pink mouse."
+    },
+    "16": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One white giraffe."
+    },
+    "17": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One pair of pink skis."
+    },
+    "18": {
+        "objects": [
+            "toothbrush"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One pink toothbrush."
+    },
+    "19": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One crescentic dining table."
+    },
+    "20": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One yellow TV."
+    },
+    "21": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One black baseball glove."
+    },
+    "22": {
+        "objects": [
+            "surfboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One white surfboard."
+    },
+    "23": {
+        "objects": [
+            "boat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One resin boat."
+    },
+    "24": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One black hair dryer."
+    },
+    "25": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One white baseball bat."
+    },
+    "26": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One yellow traffic light."
+    },
+    "27": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One yellow fire hydrant."
+    },
+    "28": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One purple umbrella."
+    },
+    "29": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One white suitcase."
+    },
+    "30": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One diamond-shaped street sign."
+    },
+    "31": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One rubber train."
+    },
+    "32": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One oval cup."
+    },
+    "33": {
+        "objects": [
+            "dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One purple dog."
+    },
+    "34": {
+        "objects": [
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One black skateboard."
+    },
+    "35": {
+        "objects": [
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One blue sandwich."
+    },
+    "36": {
+        "objects": [
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One black parking meter."
+    },
+    "37": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One purple vase."
+    },
+    "38": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One purple shirt."
+    },
+    "39": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One concrete bus."
+    },
+    "40": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One purple dress."
+    },
+    "41": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One square kite."
+    },
+    "42": {
+        "objects": [
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One white sports ball."
+    },
+    "43": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One heart-shaped backpack."
+    },
+    "44": {
+        "objects": [
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One black carrot."
+    },
+    "45": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One white cell phone."
+    },
+    "46": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One blue doughnut."
+    },
+    "47": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One white handbag."
+    },
+    "48": {
+        "objects": [
+            "refrigerator"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One purple refrigerator."
+    },
+    "49": {
+        "objects": [
+            "man"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 1
+        },
+        "prompt": "One calm man."
+    },
+    "50": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two pink snowboards."
+    },
+    "51": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two pairs of purple scissors."
+    },
+    "52": {
+        "objects": [
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two blue hot dogs."
+    },
+    "53": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two wooden forks."
+    },
+    "54": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two white mice."
+    },
+    "55": {
+        "objects": [
+            "refrigerator"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two green refrigerators."
+    },
+    "56": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two wooden bottles."
+    },
+    "57": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two green cows."
+    },
+    "58": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two red fire hydrants."
+    },
+    "59": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two pairs of purple eyeglasses."
+    },
+    "60": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two white baseball bats."
+    },
+    "61": {
+        "objects": [
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two fabric bicycles."
+    },
+    "62": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two afraid cats."
+    },
+    "63": {
+        "objects": [
+            "surfboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two yellow surfboards."
+    },
+    "64": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two pink pizzas."
+    },
+    "65": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two red knives."
+    },
+    "66": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two calm elephants."
+    },
+    "67": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two yellow handbags."
+    },
+    "68": {
+        "objects": [
+            "couch"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two blue couches."
+    },
+    "69": {
+        "objects": [
+            "woman"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two angry women."
+    },
+    "70": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two terracotta potted plants."
+    },
+    "71": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two yellow toasters."
+    },
+    "72": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two fabric curtains."
+    },
+    "73": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two stone chairs."
+    },
+    "74": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two red birds."
+    },
+    "75": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two black pieces of broccoli."
+    },
+    "76": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two white baseball gloves."
+    },
+    "77": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two black motorcycles."
+    },
+    "78": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two concrete buses."
+    },
+    "79": {
+        "objects": [
+            "toothbrush"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two purple toothbrushes."
+    },
+    "80": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two pairs of blue trousers."
+    },
+    "81": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two blue traffic lights."
+    },
+    "82": {
+        "objects": [
+            "horse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two bored horses."
+    },
+    "83": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two rubber cars."
+    },
+    "84": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two acrylic toilets."
+    },
+    "85": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two black ovens."
+    },
+    "86": {
+        "objects": [
+            "girl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two happy girls."
+    },
+    "87": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two rattan beds."
+    },
+    "88": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two pairs of white skis."
+    },
+    "89": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two green coats."
+    },
+    "90": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two black bowls."
+    },
+    "91": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two red trucks."
+    },
+    "92": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two hexagonal dining tables."
+    },
+    "93": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two floral shirts."
+    },
+    "94": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two black keyboards."
+    },
+    "95": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two blue bananas."
+    },
+    "96": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two glass cups."
+    },
+    "97": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two green sheep."
+    },
+    "98": {
+        "objects": [
+            "bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two pink bears."
+    },
+    "99": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 2
+        },
+        "prompt": "Two wooden carpets."
+    },
+    "100": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three blue baseball gloves."
+    },
+    "101": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three red fire hydrants."
+    },
+    "102": {
+        "objects": [
+            "woman"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three excited women."
+    },
+    "103": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three green keyboards."
+    },
+    "104": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three pink pizzas."
+    },
+    "105": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three yellow kites."
+    },
+    "106": {
+        "objects": [
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three purple skateboards."
+    },
+    "107": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three bamboo toilets."
+    },
+    "108": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three red ovens."
+    },
+    "109": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three red shirts."
+    },
+    "110": {
+        "objects": [
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three red sandwiches."
+    },
+    "111": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three concrete potted plants."
+    },
+    "112": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three black TVs."
+    },
+    "113": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three pink toasters."
+    },
+    "114": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three red T-shirts."
+    },
+    "115": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three calm elephants."
+    },
+    "116": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three trapezoidal beds."
+    },
+    "117": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three white traffic lights."
+    },
+    "118": {
+        "objects": [
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three red microwaves."
+    },
+    "119": {
+        "objects": [
+            "apple"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three green apples."
+    },
+    "120": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three green coats."
+    },
+    "121": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three black snowboards."
+    },
+    "122": {
+        "objects": [
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three black hot dogs."
+    },
+    "123": {
+        "objects": [
+            "horse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three bored horses."
+    },
+    "124": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three pentagonal cups."
+    },
+    "125": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three black forks."
+    },
+    "126": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three white baseball bats."
+    },
+    "127": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three pairs of striped trousers."
+    },
+    "128": {
+        "objects": [
+            "baby"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three surprised babies."
+    },
+    "129": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three rubber cars."
+    },
+    "130": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three green suitcases."
+    },
+    "131": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three black remotes."
+    },
+    "132": {
+        "objects": [
+            "boat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three yellow boats."
+    },
+    "133": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three pairs of purple scissors."
+    },
+    "134": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three white books."
+    },
+    "135": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three green tennis rackets."
+    },
+    "136": {
+        "objects": [
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three purple carrots."
+    },
+    "137": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three pink knives."
+    },
+    "138": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three white carpets."
+    },
+    "139": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three green backpacks."
+    },
+    "140": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three wooden airplanes."
+    },
+    "141": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three excited sheep."
+    },
+    "142": {
+        "objects": [
+            "surfboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three green surfboards."
+    },
+    "143": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three oval benches."
+    },
+    "144": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three striped chairs."
+    },
+    "145": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three yellow bananas."
+    },
+    "146": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three yellow buses."
+    },
+    "147": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three acrylic bowls."
+    },
+    "148": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three white broccolis."
+    },
+    "149": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three white mice."
+    },
+    "150": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four stone motorcycles."
+    },
+    "151": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four yellow oranges."
+    },
+    "152": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four green broccolis."
+    },
+    "153": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four red cars."
+    },
+    "154": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four blue hair dryers."
+    },
+    "155": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four pink backpacks."
+    },
+    "156": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four wooden bottles."
+    },
+    "157": {
+        "objects": [
+            "man"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four surprised men."
+    },
+    "158": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four paisley coats."
+    },
+    "159": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four pairs of blue skis."
+    },
+    "160": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four red carpets."
+    },
+    "161": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four green toasters."
+    },
+    "162": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four yellow cakes."
+    },
+    "163": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four steel toilets."
+    },
+    "164": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four round cups."
+    },
+    "165": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four pairs of plaid trousers."
+    },
+    "166": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four hexagonal bowls."
+    },
+    "167": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four black remotes."
+    },
+    "168": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four red buses."
+    },
+    "169": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four geometric beds."
+    },
+    "170": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four black laptops."
+    },
+    "171": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four aluminum spoons."
+    },
+    "172": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four green benches."
+    },
+    "173": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four black tennis rackets."
+    },
+    "174": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four red umbrellas."
+    },
+    "175": {
+        "objects": [
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four black carrots."
+    },
+    "176": {
+        "objects": [
+            "baby"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four surprised babies."
+    },
+    "177": {
+        "objects": [
+            "surfboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four green surfboards."
+    },
+    "178": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four white keyboards."
+    },
+    "179": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four pink mice."
+    },
+    "180": {
+        "objects": [
+            "toothbrush"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four purple toothbrushes."
+    },
+    "181": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four purple giraffes."
+    },
+    "182": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four purple suitcases."
+    },
+    "183": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four red handbags."
+    },
+    "184": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four angry sheep."
+    },
+    "185": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four wool curtains."
+    },
+    "186": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four checked chairs."
+    },
+    "187": {
+        "objects": [
+            "boy"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four excited boys."
+    },
+    "188": {
+        "objects": [
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four angry zebras."
+    },
+    "189": {
+        "objects": [
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four purple sandwiches."
+    },
+    "190": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four red pizzas."
+    },
+    "191": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four black frisbees."
+    },
+    "192": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four blue fire hydrants."
+    },
+    "193": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four pink trains."
+    },
+    "194": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four blue snowboards."
+    },
+    "195": {
+        "objects": [
+            "boat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four canvas boats."
+    },
+    "196": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four silver forks."
+    },
+    "197": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four yellow birds."
+    },
+    "198": {
+        "objects": [
+            "bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four pink bears."
+    },
+    "199": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four yellow traffic lights."
+    },
+    "200": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five pairs of floral trousers."
+    },
+    "201": {
+        "objects": [
+            "horse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five sad horses."
+    },
+    "202": {
+        "objects": [
+            "boy"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five happy boys."
+    },
+    "203": {
+        "objects": [
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five purple bicycles."
+    },
+    "204": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five triangular backpacks."
+    },
+    "205": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five pink hair dryers."
+    },
+    "206": {
+        "objects": [
+            "baby"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five excited babies."
+    },
+    "207": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five purple keyboards."
+    },
+    "208": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five triangular cakes."
+    },
+    "209": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five silicone cups."
+    },
+    "210": {
+        "objects": [
+            "toothbrush"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five green toothbrushes."
+    },
+    "211": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five pink laptops."
+    },
+    "212": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five black TVs."
+    },
+    "213": {
+        "objects": [
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five red sandwiches."
+    },
+    "214": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five fabric motorcycles."
+    },
+    "215": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five black suitcases."
+    },
+    "216": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five striped dresses."
+    },
+    "217": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five pairs of blue skis."
+    },
+    "218": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five purple cell phones."
+    },
+    "219": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five black bananas."
+    },
+    "220": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five pink pizzas."
+    },
+    "221": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five red cows."
+    },
+    "222": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five plastic potted plants."
+    },
+    "223": {
+        "objects": [
+            "surfboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five red surfboards."
+    },
+    "224": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five pink mice."
+    },
+    "225": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five striped coats."
+    },
+    "226": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five purple cars."
+    },
+    "227": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five blue beds."
+    },
+    "228": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five green snowboards."
+    },
+    "229": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five linen curtains."
+    },
+    "230": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five white airplanes."
+    },
+    "231": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five blue books."
+    },
+    "232": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five bone spoons."
+    },
+    "233": {
+        "objects": [
+            "man"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five afraid men."
+    },
+    "234": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five round benches."
+    },
+    "235": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five black forks."
+    },
+    "236": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five white shirts."
+    },
+    "237": {
+        "objects": [
+            "refrigerator"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five red refrigerators."
+    },
+    "238": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five purple baseball bats."
+    },
+    "239": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five fabric trains."
+    },
+    "240": {
+        "objects": [
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five purple carrots."
+    },
+    "241": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five excited giraffes."
+    },
+    "242": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five pairs of black scissors."
+    },
+    "243": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five pairs of red eyeglasses."
+    },
+    "244": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five pink kites."
+    },
+    "245": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five diamond-shaped bottles."
+    },
+    "246": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five star-shaped handbags."
+    },
+    "247": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five afraid birds."
+    },
+    "248": {
+        "objects": [
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five green sports balls."
+    },
+    "249": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 5
+        },
+        "prompt": "Five pink T-shirts."
+    },
+    "250": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six blue cows."
+    },
+    "251": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six yellow dresses."
+    },
+    "252": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six heart-shaped backpacks."
+    },
+    "253": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six pairs of black skis."
+    },
+    "254": {
+        "objects": [
+            "man"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six calm men."
+    },
+    "255": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six camouflage T-shirts."
+    },
+    "256": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six red clocks."
+    },
+    "257": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six white sinks."
+    },
+    "258": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six purple vases."
+    },
+    "259": {
+        "objects": [
+            "surfboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six blue surfboards."
+    },
+    "260": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six white laptops."
+    },
+    "261": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six heart-shaped carpets."
+    },
+    "262": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six trapezoidal benches."
+    },
+    "263": {
+        "objects": [
+            "horse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six bored horses."
+    },
+    "264": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six suede cars."
+    },
+    "265": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six red fire hydrants."
+    },
+    "266": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six yellow forks."
+    },
+    "267": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six red toilets."
+    },
+    "268": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six white donuts."
+    },
+    "269": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six white baseball gloves."
+    },
+    "270": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six blue handbags."
+    },
+    "271": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six green mice."
+    },
+    "272": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six black suitcases."
+    },
+    "273": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six glass trains."
+    },
+    "274": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six purple chairs."
+    },
+    "275": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six pairs of white scissors."
+    },
+    "276": {
+        "objects": [
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six green zebras."
+    },
+    "277": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six black bananas."
+    },
+    "278": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six white traffic lights."
+    },
+    "279": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six herringbone coats."
+    },
+    "280": {
+        "objects": [
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six white sports balls."
+    },
+    "281": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six wooden trucks."
+    },
+    "282": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six stone curtains."
+    },
+    "283": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six oval street signs."
+    },
+    "284": {
+        "objects": [
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six green sandwiches."
+    },
+    "285": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six pink frisbees."
+    },
+    "286": {
+        "objects": [
+            "apple"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six white apples."
+    },
+    "287": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six white ovens."
+    },
+    "288": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six black oranges."
+    },
+    "289": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six plain shirts."
+    },
+    "290": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six red books."
+    },
+    "291": {
+        "objects": [
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six black bicycles."
+    },
+    "292": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six purple cakes."
+    },
+    "293": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six excited cats."
+    },
+    "294": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six pink umbrellas."
+    },
+    "295": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six black cell phones."
+    },
+    "296": {
+        "objects": [
+            "toothbrush"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six black toothbrushes."
+    },
+    "297": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six yellow birds."
+    },
+    "298": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six leather plates."
+    },
+    "299": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 6
+        },
+        "prompt": "Six white baseball bats."
+    },
+    "300": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven red vases."
+    },
+    "301": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven blue umbrellas."
+    },
+    "302": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven green cows."
+    },
+    "303": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven wooden trucks."
+    },
+    "304": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven blue carpets."
+    },
+    "305": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven concrete potted plants."
+    },
+    "306": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven blue fire hydrants."
+    },
+    "307": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven white snowboards."
+    },
+    "308": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven silk curtains."
+    },
+    "309": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven yellow donuts."
+    },
+    "310": {
+        "objects": [
+            "apple"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven green apples."
+    },
+    "311": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven polka-dotted dresses."
+    },
+    "312": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven green baseball bats."
+    },
+    "313": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven sad elephants."
+    },
+    "314": {
+        "objects": [
+            "baby"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven surprised babies."
+    },
+    "315": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven white ovens."
+    },
+    "316": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven purple toasters."
+    },
+    "317": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven heart kites."
+    },
+    "318": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven green forks."
+    },
+    "319": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven leather buses."
+    },
+    "320": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven red frisbees."
+    },
+    "321": {
+        "objects": [
+            "toothbrush"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven pink toothbrushes."
+    },
+    "322": {
+        "objects": [
+            "bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven red bears."
+    },
+    "323": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven purple chairs."
+    },
+    "324": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven glass beds."
+    },
+    "325": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven yellow baseball gloves."
+    },
+    "326": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven happy birds."
+    },
+    "327": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven blue traffic lights."
+    },
+    "328": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven crescentic backpacks."
+    },
+    "329": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven pairs of red eyeglasses."
+    },
+    "330": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven black mice."
+    },
+    "331": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven blue street signs."
+    },
+    "332": {
+        "objects": [
+            "girl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven excited girls."
+    },
+    "333": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven white keyboards."
+    },
+    "334": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven glass dining tables."
+    },
+    "335": {
+        "objects": [
+            "refrigerator"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven green refrigerators."
+    },
+    "336": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven sad giraffes."
+    },
+    "337": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven camouflage shirts."
+    },
+    "338": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven yellow sheep."
+    },
+    "339": {
+        "objects": [
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven green bicycles."
+    },
+    "340": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven crescentic cups."
+    },
+    "341": {
+        "objects": [
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven yellow teddy bears."
+    },
+    "342": {
+        "objects": [
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven purple sandwiches."
+    },
+    "343": {
+        "objects": [
+            "couch"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven wooden couches."
+    },
+    "344": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven checked coats."
+    },
+    "345": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven pairs of blue scissors."
+    },
+    "346": {
+        "objects": [
+            "dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven green dogs."
+    },
+    "347": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven red hair dryers."
+    },
+    "348": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven yellow clocks."
+    },
+    "349": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 7
+        },
+        "prompt": "Seven pairs of blue trousers."
+    },
+    "350": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight white baseball gloves."
+    },
+    "351": {
+        "objects": [
+            "dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight excited dogs."
+    },
+    "352": {
+        "objects": [
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight purple teddy bears."
+    },
+    "353": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight blue traffic lights."
+    },
+    "354": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight rectangular bottles."
+    },
+    "355": {
+        "objects": [
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight pink sports balls."
+    },
+    "356": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight green donuts."
+    },
+    "357": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight green chairs."
+    },
+    "358": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight camouflage T-shirts."
+    },
+    "359": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight purple vases."
+    },
+    "360": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight blue knives."
+    },
+    "361": {
+        "objects": [
+            "toothbrush"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight purple toothbrushes."
+    },
+    "362": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight pairs of pink trousers."
+    },
+    "363": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight pink broccolis."
+    },
+    "364": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight oval kites."
+    },
+    "365": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight white dining tables."
+    },
+    "366": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight white forks."
+    },
+    "367": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight pink bananas."
+    },
+    "368": {
+        "objects": [
+            "man"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight calm men."
+    },
+    "369": {
+        "objects": [
+            "boy"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight excited boys."
+    },
+    "370": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight bone plates."
+    },
+    "371": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight pairs of pink eyeglasses."
+    },
+    "372": {
+        "objects": [
+            "couch"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight fabric couches."
+    },
+    "373": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight white cars."
+    },
+    "374": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight black toilets."
+    },
+    "375": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight yellow motorcycles."
+    },
+    "376": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight pink elephants."
+    },
+    "377": {
+        "objects": [
+            "girl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight angry girls."
+    },
+    "378": {
+        "objects": [
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight yellow skateboards."
+    },
+    "379": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight rectangular cakes."
+    },
+    "380": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight blue cows."
+    },
+    "381": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight white baseball bats."
+    },
+    "382": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight white trucks."
+    },
+    "383": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight yellow sinks."
+    },
+    "384": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight excited cats."
+    },
+    "385": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight black suitcases."
+    },
+    "386": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight camouflage dresses."
+    },
+    "387": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight white pizzas."
+    },
+    "388": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight white birds."
+    },
+    "389": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight red frisbees."
+    },
+    "390": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight yellow keyboards."
+    },
+    "391": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight rectangular cups."
+    },
+    "392": {
+        "objects": [
+            "woman"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight sad women."
+    },
+    "393": {
+        "objects": [
+            "horse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight white horses."
+    },
+    "394": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight wooden airplanes."
+    },
+    "395": {
+        "objects": [
+            "boat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight blue boats."
+    },
+    "396": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight pairs of red scissors."
+    },
+    "397": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight yellow toasters."
+    },
+    "398": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight yellow oranges."
+    },
+    "399": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 8
+        },
+        "prompt": "Eight purple umbrellas."
+    },
+    "400": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine pairs of plain trousers."
+    },
+    "401": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine yellow trucks."
+    },
+    "402": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine plastic cars."
+    },
+    "403": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine green baseball gloves."
+    },
+    "404": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine yellow pizzas."
+    },
+    "405": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine blue knives."
+    },
+    "406": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine titanium forks."
+    },
+    "407": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine irregular plates."
+    },
+    "408": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine purple hair dryers."
+    },
+    "409": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine black sheep."
+    },
+    "410": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine white books."
+    },
+    "411": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine black backpacks."
+    },
+    "412": {
+        "objects": [
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine red hot dogs."
+    },
+    "413": {
+        "objects": [
+            "man"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine surprised men."
+    },
+    "414": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine glass airplanes."
+    },
+    "415": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine excited giraffes."
+    },
+    "416": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine bamboo bowls."
+    },
+    "417": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine purple benches."
+    },
+    "418": {
+        "objects": [
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine pink carrots."
+    },
+    "419": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine black frisbees."
+    },
+    "420": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine floral T-shirts."
+    },
+    "421": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine white bananas."
+    },
+    "422": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine red snowboards."
+    },
+    "423": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine green cell phones."
+    },
+    "424": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine green baseball bats."
+    },
+    "425": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine red ovens."
+    },
+    "426": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine angry birds."
+    },
+    "427": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine wicker potted plants."
+    },
+    "428": {
+        "objects": [
+            "refrigerator"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine blue refrigerators."
+    },
+    "429": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine yellow traffic lights."
+    },
+    "430": {
+        "objects": [
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine pink parking meters."
+    },
+    "431": {
+        "objects": [
+            "woman"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine surprised women."
+    },
+    "432": {
+        "objects": [
+            "boat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine red boats."
+    },
+    "433": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine hexagonal kites."
+    },
+    "434": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine green heads of broccoli."
+    },
+    "435": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine red suitcases."
+    },
+    "436": {
+        "objects": [
+            "horse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine angry horses."
+    },
+    "437": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine surprised elephants."
+    },
+    "438": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine blue TVs."
+    },
+    "439": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine white toasters."
+    },
+    "440": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine glass spoons."
+    },
+    "441": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine blue keyboards."
+    },
+    "442": {
+        "objects": [
+            "boy"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine happy boys."
+    },
+    "443": {
+        "objects": [
+            "surfboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine yellow surfboards."
+    },
+    "444": {
+        "objects": [
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine pink teddy bears."
+    },
+    "445": {
+        "objects": [
+            "dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine surprised dogs."
+    },
+    "446": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine bamboo cups."
+    },
+    "447": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine pairs of yellow eyeglasses."
+    },
+    "448": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine blue cakes."
+    },
+    "449": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 9
+        },
+        "prompt": "Nine glass bottles."
+    },
+    "450": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten purple sinks."
+    },
+    "451": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten blue pizzas."
+    },
+    "452": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten green trucks."
+    },
+    "453": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten white cell phones."
+    },
+    "454": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten sad birds."
+    },
+    "455": {
+        "objects": [
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten purple hot dogs."
+    },
+    "456": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten red suitcases."
+    },
+    "457": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten square street signs."
+    },
+    "458": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten green oranges."
+    },
+    "459": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten leather beds."
+    },
+    "460": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten pink buses."
+    },
+    "461": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten triangular dining tables."
+    },
+    "462": {
+        "objects": [
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten blue microwaves."
+    },
+    "463": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten pairs of black eyeglasses."
+    },
+    "464": {
+        "objects": [
+            "toothbrush"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten pink toothbrushes."
+    },
+    "465": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten wool curtains."
+    },
+    "466": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten pink cats."
+    },
+    "467": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten rectangular clocks."
+    },
+    "468": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten yellow toasters."
+    },
+    "469": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten brass forks."
+    },
+    "470": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten copper spoons."
+    },
+    "471": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten yellow dresses."
+    },
+    "472": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten yellow TVs."
+    },
+    "473": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten purple sheep."
+    },
+    "474": {
+        "objects": [
+            "couch"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten wooden couches."
+    },
+    "475": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten pink cows."
+    },
+    "476": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten blue airplanes."
+    },
+    "477": {
+        "objects": [
+            "horse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten happy horses."
+    },
+    "478": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten black fire hydrants."
+    },
+    "479": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten black vases."
+    },
+    "480": {
+        "objects": [
+            "bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten excited bears."
+    },
+    "481": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten camouflage shirts."
+    },
+    "482": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten green keyboards."
+    },
+    "483": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten purple elephants."
+    },
+    "484": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten green backpacks."
+    },
+    "485": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten pairs of pink skis."
+    },
+    "486": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten red umbrellas."
+    },
+    "487": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten glass plates."
+    },
+    "488": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten green ovens."
+    },
+    "489": {
+        "objects": [
+            "man"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten angry men."
+    },
+    "490": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten blue motorcycles."
+    },
+    "491": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten foam trains."
+    },
+    "492": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten green bananas."
+    },
+    "493": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten black knives."
+    },
+    "494": {
+        "objects": [
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten green teddy bears."
+    },
+    "495": {
+        "objects": [
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten pink skateboards."
+    },
+    "496": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten terracotta potted plants."
+    },
+    "497": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten rectangular kites."
+    },
+    "498": {
+        "objects": [
+            "woman"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten excited women."
+    },
+    "499": {
+        "objects": [
+            "dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 10
+        },
+        "prompt": "Ten angry dogs."
+    },
+    "500": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven metallic trucks."
+    },
+    "501": {
+        "objects": [
+            "couch"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven yellow couches."
+    },
+    "502": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven blue motorcycles."
+    },
+    "503": {
+        "objects": [
+            "man"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven calm men."
+    },
+    "504": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven excited giraffes."
+    },
+    "505": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven green cats."
+    },
+    "506": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven blue kites."
+    },
+    "507": {
+        "objects": [
+            "girl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven surprised girls."
+    },
+    "508": {
+        "objects": [
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven purple skateboards."
+    },
+    "509": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven diamond-shaped sinks."
+    },
+    "510": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven acrylic toilets."
+    },
+    "511": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven white forks."
+    },
+    "512": {
+        "objects": [
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven green sandwiches."
+    },
+    "513": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven pairs of paisley trousers."
+    },
+    "514": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven pink traffic lights."
+    },
+    "515": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven red cars."
+    },
+    "516": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven black trains."
+    },
+    "517": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven red donuts."
+    },
+    "518": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven purple cows."
+    },
+    "519": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven heart-shaped bowls."
+    },
+    "520": {
+        "objects": [
+            "boy"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven angry boys."
+    },
+    "521": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven yellow cell phones."
+    },
+    "522": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven wooden airplanes."
+    },
+    "523": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven pairs of yellow eyeglasses."
+    },
+    "524": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven yellow baseball bats."
+    },
+    "525": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven pairs of white scissors."
+    },
+    "526": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven camouflage dresses."
+    },
+    "527": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven blue books."
+    },
+    "528": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven red baseball gloves."
+    },
+    "529": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven blue remotes."
+    },
+    "530": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven black vases."
+    },
+    "531": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven porcelain cups."
+    },
+    "532": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven red handbags."
+    },
+    "533": {
+        "objects": [
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven happy zebras."
+    },
+    "534": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven white laptops."
+    },
+    "535": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven plastic bottles."
+    },
+    "536": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven octagonal cakes."
+    },
+    "537": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven pink snowboards."
+    },
+    "538": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven yellow mice."
+    },
+    "539": {
+        "objects": [
+            "bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven surprised bears."
+    },
+    "540": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven green toasters."
+    },
+    "541": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven yellow ovens."
+    },
+    "542": {
+        "objects": [
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven blue carrots."
+    },
+    "543": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven blue umbrellas."
+    },
+    "544": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven triangular benches."
+    },
+    "545": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven ivory spoons."
+    },
+    "546": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven yellow curtains."
+    },
+    "547": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven sad birds."
+    },
+    "548": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven green keyboards."
+    },
+    "549": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 11
+        },
+        "prompt": "Eleven green oranges."
+    },
+    "550": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve yellow cats."
+    },
+    "551": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve yellow donuts."
+    },
+    "552": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve blue tennis rackets."
+    },
+    "553": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve blue baseball gloves."
+    },
+    "554": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve pink laptops."
+    },
+    "555": {
+        "objects": [
+            "boy"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve surprised boys."
+    },
+    "556": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve red cars."
+    },
+    "557": {
+        "objects": [
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve pink microwaves."
+    },
+    "558": {
+        "objects": [
+            "apple"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve blue apples."
+    },
+    "559": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve red TVs."
+    },
+    "560": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve pink baseball bats."
+    },
+    "561": {
+        "objects": [
+            "horse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve green horses."
+    },
+    "562": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve glass carpets."
+    },
+    "563": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve blue books."
+    },
+    "564": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve square handbags."
+    },
+    "565": {
+        "objects": [
+            "dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve excited dogs."
+    },
+    "566": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve red mice."
+    },
+    "567": {
+        "objects": [
+            "boat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve aluminum boats."
+    },
+    "568": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve pairs of floral trousers."
+    },
+    "569": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve pink suitcases."
+    },
+    "570": {
+        "objects": [
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve yellow teddy bears."
+    },
+    "571": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve green keyboards."
+    },
+    "572": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve black buses."
+    },
+    "573": {
+        "objects": [
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve yellow skateboards."
+    },
+    "574": {
+        "objects": [
+            "toothbrush"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve black toothbrushes."
+    },
+    "575": {
+        "objects": [
+            "woman"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve afraid women."
+    },
+    "576": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve plaid dining tables."
+    },
+    "577": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve white vases."
+    },
+    "578": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve black toilets."
+    },
+    "579": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve pairs of pink scissors."
+    },
+    "580": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve red pizzas."
+    },
+    "581": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve square kites."
+    },
+    "582": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve pink toasters."
+    },
+    "583": {
+        "objects": [
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve yellow sports balls."
+    },
+    "584": {
+        "objects": [
+            "refrigerator"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve green refrigerators."
+    },
+    "585": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve stone motorcycles."
+    },
+    "586": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve green potted plants."
+    },
+    "587": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve blue clocks."
+    },
+    "588": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve octagonal cups."
+    },
+    "589": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve octagonal cakes."
+    },
+    "590": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve green knives."
+    },
+    "591": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve yellow cows."
+    },
+    "592": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve pink beds."
+    },
+    "593": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve calm sheep."
+    },
+    "594": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve blue trucks."
+    },
+    "595": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve blue frisbees."
+    },
+    "596": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve blue traffic lights."
+    },
+    "597": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve bamboo chairs."
+    },
+    "598": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve wooden airplanes."
+    },
+    "599": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 12
+        },
+        "prompt": "Twelve green remotes."
+    }
+}
