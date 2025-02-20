@@ -13,6 +13,48 @@
 ## **SkillBench**
 ![alt text](examples/overview.png)
 You can find the entire dataset in the `data/` directory, where each skill has multiple JSON files corresponding to different levels.
+`data/` 内的目录结构如下：
+```
+├── primitive/
+│   ├── AB_color/
+│   │   ├── level_2.json
+│   │   ├── level_3.json
+│   │   └── ...
+│   ├── AB_pattern/
+│   │   ├── level_2.json
+│   │   ├── level_3.json
+│   │   └── ...
+│   └── ...
+└── composite/
+    ├── AB_PR/
+    │   ├── level_2.json
+    │   ├── level_3.json
+    │   └── ...
+    ├── OC_IR/
+    │   ├── level_2.json
+    │   ├── level_3.json
+    │   └── ...
+    └── ...
+```
+每一个json文件都包含了某个skill的某个level下的具体prompt以及相关数据，结构示例如下：
+```python
+{
+    "0": {  # Prompt ID in this level
+        "objects": [  # Objects in the prompt
+            "apple"  
+        ],
+        "tags": {  # Additional information for prompt
+            "objects number": 1 
+        },
+        "prompt": "A red apple."  # Prompt sentence
+    },
+    "1": {
+        ...
+    },
+    ...
+}
+```
+
 The file `evaluate/data_loader.py` provides a dataset loading method that we recommend using. You can use it to conveniently iterate through the data of a specific skill.However, you are completely free to implement your own approach.
 
 ## **Evaluation**

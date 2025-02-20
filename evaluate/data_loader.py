@@ -65,7 +65,7 @@ def read_skill(skill_dir):
 
 
 if __name__ == "__main__":
-    skill_dir = "data/cross_counting_attribute_binding_spatial"
+    skill_dir = "data/composite/OC_AB_SR"
     skill_data = read_skill(skill_dir)
     for level, datas in skill_data.items():
         print(f"Level: {level}")
