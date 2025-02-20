@@ -13,7 +13,7 @@
 ## **SkillBench**
 ![alt text](examples/overview.png)
 You can find the entire dataset in the `data/` directory, where each skill has multiple JSON files corresponding to different levels.
-`data/` 内的目录结构如下：
+The directory structure inside `data/` is as follows:
 ```
 ├── primitive/
 │   ├── AB_color/
@@ -36,7 +36,7 @@ You can find the entire dataset in the `data/` directory, where each skill has m
     │   └── ...
     └── ...
 ```
-每一个json文件都包含了某个skill的某个level下的具体prompt以及相关数据，结构示例如下：
+Each json file contains a specific prompt for a given skill level and related information, with the following structure:
 ```python
 {
     "0": {  # Prompt ID in this level
