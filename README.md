@@ -1,8 +1,8 @@
 # SkillBench: A Hierarchical and Scalable Benchmark for Fine-grained Compositional Text-to-Image Generation
 
-Name<sup>1</sup>, Name<sup>1</sup>,Name<sup>3</sup>, Name<sup>2</sup>.
+<!-- Name<sup>1</sup>, Name<sup>1</sup>,Name<sup>3</sup>, Name<sup>2</sup>.
 
-**<sup>1</sup>HDU, <sup>2</sup>, <sup>3</sup>**
+**<sup>1</sup>HDU, <sup>2</sup>, <sup>3</sup>** -->
 
 <a href=''><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 <a href=''><img src='https://img.shields.io/badge/SkillBench-Paper-red'></a> 
